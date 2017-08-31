@@ -6,7 +6,7 @@
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Latest ResurrectionRemix build"></RomUrl>
+                description="Latest ResurrectionRemix build">https://www.androidfilehost.com/?fid=817550096634796138</RomUrl>
             <BeansGappsUrl
                 id="beans_gapps"
                 title="BeansGApps"
@@ -18,7 +18,7 @@
             <OldBuildsUrl
             	id="Old_builds"
             	title="Build Folder"
-            	description="Build Download Archive">https://www.androidfilehost.com/?a=show&amp;w=files&amp;flid=182475</OldBuildsUrl>
+            	description="Build Download Archive">https://www.androidfilehost.com/?w=files&flid=160893</OldBuildsUrl>
 	</bacon>
     </Unofficial>
 </SlimOTA>
