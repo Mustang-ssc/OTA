@@ -14,11 +14,11 @@
 	        <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View Changelog">https://forum.xda-developers.com/showpost.php?p=72784384&postcount=2</ChangelogUrl>
+                description="View Changelog">https://forum.xda-developers.com/showpost.php?p=72784384&amp;postcount=2</ChangelogUrl>
             <OldBuildsUrl
             	id="Old_builds"
             	title="Build Folder"
-            	description="Build Download Archive">https://www.androidfilehost.com/?w=files&flid=160893</OldBuildsUrl>
+            	description="Build Download Archive">https://www.androidfilehost.com/?w=files&amp;flid=160893</OldBuildsUrl>
 	</bacon>
     </Unofficial>
 </SlimOTA>
