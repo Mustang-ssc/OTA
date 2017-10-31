@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <bacon>
+            <Filename>RR-N-v5.8.5-YYYMMDD-bacon-Unofficial-Mustangssc.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download ResurrectionRemix builds">404 Not Found</RomUrl>
+              <Firmware1Url
+                id="firmware1"
+                title="Recommended Firmware"
+                description="Download ResurrectionRemix Oneplus c6 Firmware">https://www.androidfilehost.com/?fid=24052804347825946</Firmware1Url>
+              <Firmware2Url
+                id="firmware2"
+                title="Newer Firmware"
+                description="Download ResurrectionRemix Oneplus c7 Firmware">https://www.androidfilehost.com/?fid=24389512218018449</Firmware2Url>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://forum.xda-developers.com/showpost.php?p=72784384&amp;postcount=2</ChangelogUrl>
+           <OpenGappsUrl
+            	id="open_gapps"
+            	title="Open Gapps"
+            	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
+            <OldBuildsUrl
+            	id="Old_builds"
+            	title="Build Folder"
+            	description="Build Download Archive">https://www.androidfilehost.com/?w=files&amp;flid=227138</OldBuildsUrl>
+		</bacon>
+	</Stable>
+</SlimOTA>
