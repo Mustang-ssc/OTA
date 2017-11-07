@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
-    <Stable>
+    <Test>
         <bacon>
             <Filename>RR-N-v5.8.5-20171101-bacon-Unofficial-Mustangssc.zip</Filename>
             <RomUrl
@@ -27,6 +27,6 @@
             	id="Old_builds"
             	title="Build Folder"
             	description="Build Download Archive">https://www.androidfilehost.com/?w=files&amp;flid=227138</OldBuildsUrl>
-		</bacon>
-	</Stable>
+	</bacon>
+   </Test>
 </SlimOTA>
