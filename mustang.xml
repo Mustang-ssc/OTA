@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <bacon>
-            <Filename>RR-N-v5.8.5-20180125-bacon-Unofficial-Mustangssc.zip</Filename>
+            <Filename>RR-N-v5.8.5-20180327-bacon-Unofficial-Mustangssc.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix builds">https://androidfilehost.com/?fid=818070582850487995</RomUrl>
+                description="Download ResurrectionRemix builds">https://androidfilehost.com/?fid=746010030569964999</RomUrl>
               <Firmware1Url
                 id="firmware1"
                 title="Recommended Firmware"
